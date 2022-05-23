@@ -9,10 +9,10 @@ After opening an image
 Applying Histogram Equalization
 ![image](https://user-images.githubusercontent.com/61350907/169825318-c1aba5be-92f1-44b4-9953-ec2e571da578.png)
 
-Applying High pass filter
+Applying High pass filter on Grey version
 ![image](https://user-images.githubusercontent.com/61350907/169824777-479a27fe-9dea-4943-a999-2a0178e4ff56.png)
 
-Applying Low pass filter
+Applying Low pass filter on Grey version
 ![image](https://user-images.githubusercontent.com/61350907/169824899-07d314a9-d332-475d-8c0a-c93f86bb58d7.png)
 
 Applying Median filter
