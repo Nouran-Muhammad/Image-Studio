@@ -21,5 +21,8 @@ Applying Low pass filter on Grey version
 Applying Median filter
 ![image](https://user-images.githubusercontent.com/61350907/169825115-96125a74-5eb5-4216-9137-0029f1d26e40.png)
 
-Applying Laplacian filter
-![image](https://user-images.githubusercontent.com/61350907/169826170-b160e007-1967-4132-adf2-f2796d6cd0db.png)
+Applying Laplacian filter on Grey version
+![image](https://user-images.githubusercontent.com/61350907/169827651-fe8f5110-d5f9-4c76-8ef3-3676a17322c0.png)
+
+Applying Laplacian filter on Colored version
+![image](https://user-images.githubusercontent.com/61350907/169827837-7b8421ae-8871-4c37-a28f-31c92b012558.png)
