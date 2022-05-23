@@ -18,8 +18,8 @@ Applying High pass filter on Grey version in frequency domain
 Applying High pass filter on colored version
 ![image](https://user-images.githubusercontent.com/61350907/169825994-a190f8a2-2efc-4477-a855-420cb93ab9c9.png)
 
-Applying Low pass filter on Grey version
-![image](https://user-images.githubusercontent.com/61350907/169826093-17e3d9ef-89d2-49e2-b553-77d977d648fa.png)
+Applying Low pass filter on Grey version in spatial domain
+![image](https://user-images.githubusercontent.com/61350907/169828989-28634497-1df2-4323-9cd6-e086dec82fa5.png)
 
 Applying Median filter
 ![image](https://user-images.githubusercontent.com/61350907/169825115-96125a74-5eb5-4216-9137-0029f1d26e40.png)
