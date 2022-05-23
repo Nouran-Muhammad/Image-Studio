@@ -6,11 +6,14 @@ A desktop application for manipulating images by applying Histogram equalization
 After opening an image
 ![image](https://user-images.githubusercontent.com/61350907/169824501-15aa78af-07d5-4c5a-80c1-f3b4a26ec63d.png)
 
-Applying Histogram Equalization
+Applying Histogram Equalization on Colored Version
 ![image](https://user-images.githubusercontent.com/61350907/169825318-c1aba5be-92f1-44b4-9953-ec2e571da578.png)
 
-Applying High pass filter on Grey version
-![image](https://user-images.githubusercontent.com/61350907/169824777-479a27fe-9dea-4943-a999-2a0178e4ff56.png)
+Applying Histogram Equalization on Grey Version
+![image](https://user-images.githubusercontent.com/61350907/169828700-573e3d21-2207-4c19-909c-67408ebcb811.png)
+
+Applying High pass filter on Grey version in frequency domain
+![image](https://user-images.githubusercontent.com/61350907/169828816-1e4ca94b-f286-4747-ae52-5809cb71508e.png)
 
 Applying High pass filter on colored version
 ![image](https://user-images.githubusercontent.com/61350907/169825994-a190f8a2-2efc-4477-a855-420cb93ab9c9.png)
